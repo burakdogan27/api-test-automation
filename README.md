@@ -1,6 +1,6 @@
 # API Test Automation
 
-REST API test otomasyon projesi. WireMock ile mock API'lar, RestAssured ile test senaryoları.
+Bu proje, REST API test otomasyonu için hazırlanmış bir test projesidir. WireMock kullanılarak mock API'lar oluşturulmuş ve bu API'lar üzerinde çeşitli test senaryoları gerçekleştirilmiştir.
 
 ## Geliştirici
 
