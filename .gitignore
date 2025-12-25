@@ -1,0 +1,18 @@
+# Compiled class files
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Allure
+.allure/
+allure-results/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
