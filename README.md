@@ -11,6 +11,7 @@ Bu proje, REST API test otomasyonu için hazırlanmış bir test projesidir. Wir
 ```bash
 git clone https://github.com/burakdogan27/api-test-automation.git
 cd api-test-automation
+mvn spring-javaformat:apply
 mvn clean install -DskipTests
 ```
 
